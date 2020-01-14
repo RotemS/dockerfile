@@ -1,1 +1,1 @@
-FROM amazonlinux:latest
+FROM node:10.4.0
