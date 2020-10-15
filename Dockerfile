@@ -1,2 +1,1 @@
-FROM scratch
-RUN echo "hello world"
+FROM hello-world
