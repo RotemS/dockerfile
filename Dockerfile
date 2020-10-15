@@ -1,1 +1,2 @@
-FROM node:10.4.0
+FROM scratch
+RUN echo "hello world"
